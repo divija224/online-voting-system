@@ -1,0 +1,3 @@
+divija,dimpu,voter
+admin,667,admin
+rani,rani1,voter
